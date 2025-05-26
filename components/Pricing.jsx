@@ -43,7 +43,7 @@ export default function Pricing() {
                 </ul>
                 
                 <a 
-                    href="https://wa.me/234YOURNUMBER?text=I%20want%20to%20order%20a%20boutique%20website" 
+                    href="https://wa.me/+2349138314501" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="inline-block bg-purple-600 hover:bg-purple-700 text-white font-bold py-4 px-12 rounded-lg transition duration-300"
